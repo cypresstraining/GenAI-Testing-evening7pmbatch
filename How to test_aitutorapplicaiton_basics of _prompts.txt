@@ -1,0 +1,118 @@
+Good evening Guys !!!!!
+
+Recap !  => 
+
+How a software tester transform from traditional testing approach to gen AI or AI testing approach with the help of Prompt engineering . 
+
+=> List down the imp prompt techniques to verify all possibilities of the ai application.
+=> Different roles related prompts
+=> Different levels related prompts
+=> Different styles related prompts 
+=> Different promptings we can verify 
+   a. single shot prompt 
+   b. Few shot prompts
+   c. contextual prompts
+   d. Chaining prompts 
+   e. Step by step  prompt 
+=> Different prompts with biasing questions
+=> Different prompts with safety related questions 
+
+Combinations of tests to evaluate the AI application. 
+
+Example application AI tutor application.
+
+AI tutor application is useful to the students to learn concepts by asking the question. 
+This AI tutor application is also helpful to teacher as well 
+This ai tutor application is also helpful to the administrator 
+This ai tutor application is useful to so many roles.
+This ai tutor application is useful to the different styles of users. 
+Kids they can use
+Technology students they can use
+mathematic students they can use . 
+different streams of students can use  this tutor application to clear their questions or learn from tutor. 
+Now you are appointed as AI tester for your AI tutor application then what is your role in this project? 
+
+=> Usually we can test the application with respect to UI/Usability ?
+a. Look and feel 
+b. buttons / text input is accepting or not 
+c. answer from AI is properly displayed to the customer with in the chat box or not 
+
+=>  Functionality of the AI tutor application?
+a. we can ask a question and check the answer ? 
+b. empty question check the response ?
+c. invalid question check the response ?
+
+but today my question is?  your functional testing + UI + compatibility testing are sufficient to release the product into market.
+
+You are student ,  and want to learn from my AI tutor application about Quantum computing ?
+then this student able to ask about quantum  computing  related question . 
+"Can you explain quantum computing ?" 
+"Can you explain quantum computing from zero to hero?"
+"Can you explain quantum computing from scratch"?
+"Can you explain Quantum computing to my 5 years old kid ?
+"Can you explain Quantum computing to  my Btech son with real world example"?
+"Can you explain where to start to teach Quantum computing to my 10th class students" 
+
+=> As a tester we need to keep this in mind , and prepare as many as possible prompt with different variations .
+
+to do so we need to understand how do we get different answers with different questions (prompts) .
+
+AI trip planner. Lets think this as a project and write your prompts to test this application.
+Target date:22/09/2025
+qtramprasad@gmail.com 
+
+Sub: GenAI_Testing_Eve7pm_batch_yourname_taskname
+========================================================
+
+LLM with Lanchain this is what we are going to learn in Gen AI testing . As part of back end testing . 
+
+=> How is this application developed ? 
+
+=> AI application we do have similar kind of tools and technologies involved.
+
+LLMS  => large language models  => 
+Framework => how this AI application developed 
+Tools we are using in your AI application. 
+
+=> API testing 
+=> python programming  => Python lecturers. 
+=> Product knowledge to  understand more about your AI application. 
+======================================================
+1. Download GitHub desktop into your local computer
+2. install the GitHub desktop 
+3. create an GitHub account with your gmail .
+4. Login to the GitHub desktop with the account credentials 
+5. Once it is done - you 
+6. File menu >> clone repository 
+7. Select the URL tab 
+8. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
