@@ -1,0 +1,70 @@
+Good Evening !!!!!
+
+We understand what is Gen AI and what is Agentic AI ?
+
+We understand what is traditional testing and what is AI testing?
+
+Traditional testing to AI/Gen AI testing :
+
+step#1 we are learning how to question an AI application.
+Example: AITutor application
+
+Step#2  we need to learn Python basics ( core python) 
+numpy
+pandas
+
+step#3  We need to understand LLMS  and their framework 
+Gen AI components 
+Lanchain is a framework we used to build the gen AI applications
+
+step#4 we need to understand Agentic AI and their framework => crewAi as a framework 
+sample capstone project 
+
+step#5 we need to work on AI project or genAI project  and agentic AI project. 
+========================================================
+Prompt engineering for software tester  / AI tester
+========================================================
+We are using GitHub desktop /GitHub => to access the content of the classroom. 
+
+1. GitHub => cloud platform to access the code base and implementing the versions of the file. Version controlling system 
+
+We need to update these changes in the real time through these version control system only. 
+
+7 members in the team working on same file. how do you get an update from others . or how to maintain your changes performed on this document.
+a. Versioning 
+b. Maintaining the updates 
+We can change the files , update the files , delete the files in the local computer , that changes also required for other team members . how do we convey these change with Git /Subversion kind of tools. 
+if you update these changes to the server then every one access your changes into their local computer.
+
+whatever I performed on my folder will be accessible to you. all 6 members.
+
+=> Git => is tool to maintain version controlling system
+=> GitHub => is cloud service provider for this git.
+=> GitHub desktop => this is a UI tool to connect with the server for your updates push into the server
+or get the updates /Pull into local server
+
+========================================================
+GitHub account  => GitHub email ids in the chat . 
+========================================================
+To these accounts I will give you my code base access
+========================================================
+Jain breaking to avoid the potential damage the business or harmness to the business
+Conflict : when your prompt consists two sentences with different expectations then also AI system requires clarification before producing the answer.
+un biased answers : 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
